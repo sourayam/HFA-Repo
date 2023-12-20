@@ -178,5 +178,6 @@ FirstPackageName,
 LastExpireDate, 
 LastPackageName 
 from Query2
+order by CustID 
 
 
